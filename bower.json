@@ -1,0 +1,28 @@
+{
+  "name": "fraction.css",
+  "description": "Grid system for simple projects.",
+  "main": "lib/fraction.css",
+  "authors": [
+    "Juan Olvera"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Grid",
+    "Responsive",
+    "CSS",
+    "Sass"
+  ],
+  "moduleType": [],
+  "homepage": "http://thinkxl.github.io/fraction.css",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "normalize-css": "normalize.css#~3.0.3",
+    "tequila.scss": "~3.0.0"
+  }
+}
